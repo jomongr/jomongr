@@ -1,78 +1,68 @@
-# Hi, I'm Jomon George Reji 👋
+# 👋 Hi, I'm Jomon George Reji
 
 🎓 MSc in Mechatronics & Cyber Physical Systems  
-🤖 Robotics | AI | Autonomous Systems | Industrial Automation | VR  
+🤖 Robotics | Autonomous Systems | Control & Simulation | VR | Embedded Systems  
 
-I build intelligent systems that connect **software, hardware, and real-world machines**.
+I am a mechatronics engineer passionate about building **intelligent, safe, and efficient systems** that integrate software, hardware, and real-world applications. My work spans robotics, industrial automation, renewable energy systems, and immersive simulation.
 
 ---
 
-## 🚀 Areas of Interest
+## 🔧 Technical Skills
+
+### Robotics & Autonomous Systems
+- ROS (SLAM, Navigation, Path Planning)
+- Mobile Robots & Sensor Fusion
+- Autonomous Navigation & Mapping
+
+### Control Systems & Simulation
+- MATLAB & Simulink
+- Dynamic system modeling
+- Motor and actuator control
+- Long-duration system simulations
+
+### Mechanical Design & Analysis
+- SolidWorks (CAD, Simulation, Topology Optimization)
+- Additive Manufacturing (DfAM)
+- Sustainable product design
+- Structural & motion analysis
+
+### Programming & Development
+- Python
+- C++
+- C#
+- Embedded C
+
+### VR & Visualization
+- Unity (VR development)
+- Blender (3D modeling & visualization)
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 **Autonomous Inventory Robot (ROS + SLAM)**  
+  Indoor mobile robot for mapping, localization, and warehouse navigation.
+
+- 🏭 **VR Safety Training System (Unity)**  
+  Immersive VR-based industrial oven safety training simulator.
+
+- ☀️ **Dual-Axis Solar Tracker (Simulink)**  
+  Control-system model optimizing solar energy capture using dual-axis tracking.
+
+- 🪒 **Safety Click Razor – Sustainable Design**  
+  Topology-optimized, additively manufactured product design focused on safety and sustainability.
+
+---
+
+## 🎯 Career Interests
 - Robotics & Autonomous Systems  
-- SLAM & Mobile Robot Navigation  
-- VR-Based Industrial Training  
-- Embedded Systems & Automation  
-- Sustainable Product Design  
+- Industrial Automation & Industry 4.0  
+- Control Systems & Simulation  
+- Sustainable Engineering Solutions  
 
 ---
 
-## 🧠 Technical Skills
+📫 **GitHub**: https://github.com/jomongr  
+💼 **LinkedIn**: (add your link here)
 
-### Robotics & AI
-- ROS (Navigation, SLAM)
-- Mapping & Localization
-- Path Planning
-- Sensor Fusion
-
-### Programming
-- Python  
-- C++  
-- C#  
-- Embedded C  
-
-### Simulation & Development
-- Unity (VR Development)
-- Gazebo
-- RViz
-- MATLAB
-- SolidWorks
-
-### Embedded Systems
-- Arduino
-- Microcontrollers
-- Sensor Integration
-
----
-
-## 🏆 Featured Projects
-
-### 🏭 VR Safety Training – Industrial Ovens
-Unity-based VR system for industrial safety training with emergency scenarios and performance evaluation.  
-🔗 Repo: https://github.com/yourusername/VR-Safety-Training-Industrial-Ovens
-
-### 🤖 Autonomous Inventory Robot (ROS + SLAM)
-Mobile robot capable of autonomous navigation, mapping, and localization for warehouse inventory monitoring.  
-🔗 Repo: https://github.com/yourusername/Inventory-Robot-SLAM
-
-### 🪒 Safety Click Razor – Sustainable Product Design
-Redesigned double-edge safety razor using topology optimization and additive manufacturing.  
-🔗 Repo: https://github.com/yourusername/Safety-Click-Razor
-
----
-
-## 🌍 Career Goals
-Seeking opportunities in:
-- Robotics Engineering
-- Autonomous Systems
-- Industrial Automation
-- Industry 4.0 & Smart Manufacturing
-
----
-
-## 📫 Connect With Me
-- LinkedIn:www.linkedin.com/in/jomon-george-reji-73a986222
-- GitHub: https://github.com/jomngr
-
----
-
-> “Building intelligent systems for a safer, smarter, and sustainable future.”
+> *Building smart, sustainable, and autonomous engineering solutions.*
