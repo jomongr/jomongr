@@ -63,6 +63,6 @@ I am a mechatronics engineer passionate about building **intelligent, safe, and 
 ---
 
 📫 **GitHub**: https://github.com/jomongr  
-💼 **LinkedIn**: (add your link here)
+💼 **LinkedIn**: www.linkedin.com/in/jomon-george-reji-73a986222
 
 > *Building smart, sustainable, and autonomous engineering solutions.*
